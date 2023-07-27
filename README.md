@@ -1,5 +1,5 @@
 <a name="readme-top"></a>
-<h1 align='center'>Final Capstone - Resort Booking</h1>
+<h1 align='center'>Heallo react/rails</h1>
 
 
 # 📗 Table of Contents
@@ -27,7 +27,7 @@
 
 
 # Rails Blog <a name="about-project"></a>
-> Resort booking is a full-stack webapp which allows a user to manage their bookings. This is the front-end part of the project, if you want to see the back-end part, you can click [here](https://github.com/Thinus01/Resort_Booking_Back-end)
+> Hello react/rails is the entry to creating a project that use rails as a back end and react as a front end. This is the front-end part of the project, if you want to see the back-end part, you can click [here](https://github.com/Thinus01/Resort_Booking_Back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
@@ -83,7 +83,7 @@ Create the databases and run migrations with:
 
 ```sh
 The database is not included in this repo.
-If you want that, click [here]().
+If you want that, click [here](https://github.com/Thinus01/Hello-react-back-end).
 ```
 
 ### Usage
@@ -92,6 +92,7 @@ To run the development server, execute the following command:
 
 ```sh
 npm start
+When promped with a message to use another port, tap `y` on your keyboard
 ```
 
 ### Testing
@@ -132,7 +133,7 @@ You can visit the app using [Render](https://www.render.com/)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/lawrahkonwea/Rails_blog_app/issues).
+Feel free to check the [issues page](https://github.com/Thinus01/Hello-react-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,6 +154,6 @@ I would like to thank microverse for serving this opportunity.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Thinus01/Resort_Booking_Front-end/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Thinus01/Hello-react-back-end/React/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
