@@ -12,7 +12,7 @@ export const fetchRandomGreeting = () => (dispatch) => {
     .get('http://localhost:3000/random_greeting')
     .then((response) => {
       const { greeting } = response.data;
-      dispatch(setRandomGreeting(greeting));
+      dispatch(setRandomGreeting(greeting.content));
     })
     .catch((error) => {
       console.error('Error fetching random greeting:', error);
